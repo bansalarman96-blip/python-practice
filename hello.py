@@ -1,0 +1,1 @@
+print("Consistency > Motivation")
